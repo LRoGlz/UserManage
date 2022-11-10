@@ -1,0 +1,6 @@
+com\mycompany\email\Test.class
+com\mycompany\email\BBDD.class
+com\mycompany\email\Register.class
+com\mycompany\email\Login.class
+com\mycompany\email\Message.class
+com\mycompany\email\User.class

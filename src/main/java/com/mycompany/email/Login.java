@@ -13,13 +13,6 @@ import java.util.ArrayList;
 public class Login {
     private boolean success;
     
-    public String enterEmail(String e){
-        return e;
-    }
-    
-    public String enterPass(String p){
-        return p;
-    }
     
     //iniciar sesión
     public User makeLogin(String email, String pass, ArrayList<User> au){

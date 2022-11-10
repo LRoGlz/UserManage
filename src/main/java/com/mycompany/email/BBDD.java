@@ -26,9 +26,6 @@ public class BBDD {
         return users;
     }
 
-    public static void setUsers(ArrayList<User> users) {
-        BBDD.users = users;
-    }
 
     public static ArrayList<Message> getMessages() {
         return messages;

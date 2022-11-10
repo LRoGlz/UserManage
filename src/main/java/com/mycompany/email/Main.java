@@ -63,6 +63,7 @@ public class Main {
                                 logged.setSecurityQ(question);
                                 logged.setAnswer(answer);
                                 System.out.println("Pregunta de seguridad establecida");
+                                break;
                             case 3:
                                 System.out.println("¿A quien quieres enviar un mensaje?");
                                 BBDD.readUsers(logged);
